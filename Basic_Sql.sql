@@ -1,5 +1,5 @@
 create database BASIC_SQL;
-use intro_sql;
+use BASIC_SQL;
 create table student
 (
 st_id int,
